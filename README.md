@@ -86,4 +86,4 @@ Setiap notebook akan menghasilkan laporan evaluasi pada Test Set yang mencakup:
 
 * **Konflik Ukuran Input:** Kode untuk DeiT dan Swin telah dimodifikasi secara manual (hardcoded size = 224) untuk mengatasi perbedaan konfigurasi default pada library Transformers, memastikan input citra sesuai dengan tensor yang diharapkan model.
 * **Kapasitas Penyimpanan:** Pastikan Google Drive memiliki ruang kosong yang cukup (minimal 2 GB) untuk menyimpan ketiga file model hasil pelatihan.
-* **Link File Bobot Model: [Link Gdrive](https://www.kaggle.com/datasets/rizkyyk/dataset-food-classification](https://drive.google.com/drive/folders/1TtLf31BJwmYn16gC-GJfcGd0EtnN4hMW?usp=sharing))**
+* **Link File Bobot Model: [Link Gdrive](https://drive.google.com/drive/folders/1TtLf31BJwmYn16gC-GJfcGd0EtnN4hMW?usp=sharing)**
